@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.exe.config
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario_de_datos.Form1.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario_de_datos.Properties.Resources.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\bin\Debug\Diccionario de datos.exe.config
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\obj\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\obj\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\bin\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\bin\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\obj\Debug\Diccionario de datos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\obj\Debug\Diccionario_de_datos.Form1.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\obj\Debug\Diccionario_de_datos.Properties.Resources.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeV2\Diccionario de datos\obj\Debug\Diccionario de datos.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\bin\Debug\Diccionario de datos.exe.config
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\obj\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\obj\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\bin\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\bin\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\obj\Debug\Diccionario de datos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\obj\Debug\Diccionario_de_datos.Form1.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\obj\Debug\Diccionario_de_datos.Properties.Resources.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Diccionario de datos + aB+treeVFinal\Diccionario de datos\obj\Debug\Diccionario de datos.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.exe.config
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario_de_datos.Form1.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario_de_datos.Properties.Resources.resources
+C:\Users\User\Desktop\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.exe.config
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.exe
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.pdb
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario_de_datos.Form1.resources
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario_de_datos.Properties.Resources.resources
+C:\Users\User\Desktop\Ingenieria UASLP\6to Semestre\Estructuras de archivos\Manuales\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.csproj.GenerateResource.Cache
+F:\Diccionario de datos\Diccionario de datos\bin\Debug\Diccionario de datos.exe.config
+F:\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.exe
+F:\Diccionario de datos\Diccionario de datos\obj\Debug\Diccionario de datos.pdb
